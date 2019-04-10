@@ -214,12 +214,12 @@ h6 {
   font-size: 2.25rem;
   -webkit-box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
-}
+}_
 
 .callout {
   padding: 15rem 0;
-  background: url("../img/cv.jpg");
-  background: url("../img/cv.jpg");
+  background: url("../img/CV.jpg");
+  background: url("../img/CV.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
